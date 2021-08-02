@@ -5,9 +5,9 @@
 
 ### 참고 사이트 - 링크 걸어야 함
 
-* 백준
-* 오일러
-* leet code
+* [Leetcode](https://leetcode.com/)
+* [Baekjoon](https://www.acmicpc.net/)
+* [프로젝트오일러](https://euler.synap.co.kr/)
 
 
 
